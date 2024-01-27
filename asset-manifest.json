@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/cappybirthday/static/css/main.85d59bf5.css",
-    "main.js": "/cappybirthday/static/js/main.b8e47810.js",
+    "main.css": "/cappybirthday/static/css/main.1e5206f0.css",
+    "main.js": "/cappybirthday/static/js/main.85db39f4.js",
     "reactPlayerYouTube.js": "/cappybirthday/static/js/reactPlayerYouTube.5de0301b.chunk.js",
     "reactPlayerSoundCloud.js": "/cappybirthday/static/js/reactPlayerSoundCloud.bdea16c3.chunk.js",
     "reactPlayerVimeo.js": "/cappybirthday/static/js/reactPlayerVimeo.0df81d8f.chunk.js",
@@ -17,8 +17,8 @@
     "reactPlayerPreview.js": "/cappybirthday/static/js/reactPlayerPreview.015a5609.chunk.js",
     "static/media/capy.png": "/cappybirthday/static/media/capy.c7f5950c0404cd3bc108.png",
     "index.html": "/cappybirthday/index.html",
-    "main.85d59bf5.css.map": "/cappybirthday/static/css/main.85d59bf5.css.map",
-    "main.b8e47810.js.map": "/cappybirthday/static/js/main.b8e47810.js.map",
+    "main.1e5206f0.css.map": "/cappybirthday/static/css/main.1e5206f0.css.map",
+    "main.85db39f4.js.map": "/cappybirthday/static/js/main.85db39f4.js.map",
     "reactPlayerYouTube.5de0301b.chunk.js.map": "/cappybirthday/static/js/reactPlayerYouTube.5de0301b.chunk.js.map",
     "reactPlayerSoundCloud.bdea16c3.chunk.js.map": "/cappybirthday/static/js/reactPlayerSoundCloud.bdea16c3.chunk.js.map",
     "reactPlayerVimeo.0df81d8f.chunk.js.map": "/cappybirthday/static/js/reactPlayerVimeo.0df81d8f.chunk.js.map",
@@ -34,7 +34,7 @@
     "reactPlayerPreview.015a5609.chunk.js.map": "/cappybirthday/static/js/reactPlayerPreview.015a5609.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.85d59bf5.css",
-    "static/js/main.b8e47810.js"
+    "static/css/main.1e5206f0.css",
+    "static/js/main.85db39f4.js"
   ]
 }
