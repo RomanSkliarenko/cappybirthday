@@ -1,40 +1,14 @@
 {
   "files": {
     "main.css": "/RomanSkliarenko/cappybirthday/static/css/main.d3ae0e63.css",
-    "main.js": "/RomanSkliarenko/cappybirthday/static/js/main.c782a733.js",
-    "reactPlayerYouTube.js": "/RomanSkliarenko/cappybirthday/static/js/reactPlayerYouTube.5de0301b.chunk.js",
-    "reactPlayerSoundCloud.js": "/RomanSkliarenko/cappybirthday/static/js/reactPlayerSoundCloud.bdea16c3.chunk.js",
-    "reactPlayerVimeo.js": "/RomanSkliarenko/cappybirthday/static/js/reactPlayerVimeo.0df81d8f.chunk.js",
-    "reactPlayerFacebook.js": "/RomanSkliarenko/cappybirthday/static/js/reactPlayerFacebook.b9b2f1d7.chunk.js",
-    "reactPlayerStreamable.js": "/RomanSkliarenko/cappybirthday/static/js/reactPlayerStreamable.374f0020.chunk.js",
-    "reactPlayerWistia.js": "/RomanSkliarenko/cappybirthday/static/js/reactPlayerWistia.7df0450e.chunk.js",
-    "reactPlayerTwitch.js": "/RomanSkliarenko/cappybirthday/static/js/reactPlayerTwitch.960ab7cb.chunk.js",
-    "reactPlayerDailyMotion.js": "/RomanSkliarenko/cappybirthday/static/js/reactPlayerDailyMotion.fd3dc926.chunk.js",
-    "reactPlayerMixcloud.js": "/RomanSkliarenko/cappybirthday/static/js/reactPlayerMixcloud.68553827.chunk.js",
-    "reactPlayerVidyard.js": "/RomanSkliarenko/cappybirthday/static/js/reactPlayerVidyard.82a5782a.chunk.js",
-    "reactPlayerKaltura.js": "/RomanSkliarenko/cappybirthday/static/js/reactPlayerKaltura.b0ae30a4.chunk.js",
-    "reactPlayerFilePlayer.js": "/RomanSkliarenko/cappybirthday/static/js/reactPlayerFilePlayer.61ddc0d6.chunk.js",
-    "reactPlayerPreview.js": "/RomanSkliarenko/cappybirthday/static/js/reactPlayerPreview.015a5609.chunk.js",
+    "main.js": "/RomanSkliarenko/cappybirthday/static/js/main.ceafe5c8.js",
     "static/media/capy.png": "/RomanSkliarenko/cappybirthday/static/media/capy.c7f5950c0404cd3bc108.png",
     "index.html": "/RomanSkliarenko/cappybirthday/index.html",
     "main.d3ae0e63.css.map": "/RomanSkliarenko/cappybirthday/static/css/main.d3ae0e63.css.map",
-    "main.c782a733.js.map": "/RomanSkliarenko/cappybirthday/static/js/main.c782a733.js.map",
-    "reactPlayerYouTube.5de0301b.chunk.js.map": "/RomanSkliarenko/cappybirthday/static/js/reactPlayerYouTube.5de0301b.chunk.js.map",
-    "reactPlayerSoundCloud.bdea16c3.chunk.js.map": "/RomanSkliarenko/cappybirthday/static/js/reactPlayerSoundCloud.bdea16c3.chunk.js.map",
-    "reactPlayerVimeo.0df81d8f.chunk.js.map": "/RomanSkliarenko/cappybirthday/static/js/reactPlayerVimeo.0df81d8f.chunk.js.map",
-    "reactPlayerFacebook.b9b2f1d7.chunk.js.map": "/RomanSkliarenko/cappybirthday/static/js/reactPlayerFacebook.b9b2f1d7.chunk.js.map",
-    "reactPlayerStreamable.374f0020.chunk.js.map": "/RomanSkliarenko/cappybirthday/static/js/reactPlayerStreamable.374f0020.chunk.js.map",
-    "reactPlayerWistia.7df0450e.chunk.js.map": "/RomanSkliarenko/cappybirthday/static/js/reactPlayerWistia.7df0450e.chunk.js.map",
-    "reactPlayerTwitch.960ab7cb.chunk.js.map": "/RomanSkliarenko/cappybirthday/static/js/reactPlayerTwitch.960ab7cb.chunk.js.map",
-    "reactPlayerDailyMotion.fd3dc926.chunk.js.map": "/RomanSkliarenko/cappybirthday/static/js/reactPlayerDailyMotion.fd3dc926.chunk.js.map",
-    "reactPlayerMixcloud.68553827.chunk.js.map": "/RomanSkliarenko/cappybirthday/static/js/reactPlayerMixcloud.68553827.chunk.js.map",
-    "reactPlayerVidyard.82a5782a.chunk.js.map": "/RomanSkliarenko/cappybirthday/static/js/reactPlayerVidyard.82a5782a.chunk.js.map",
-    "reactPlayerKaltura.b0ae30a4.chunk.js.map": "/RomanSkliarenko/cappybirthday/static/js/reactPlayerKaltura.b0ae30a4.chunk.js.map",
-    "reactPlayerFilePlayer.61ddc0d6.chunk.js.map": "/RomanSkliarenko/cappybirthday/static/js/reactPlayerFilePlayer.61ddc0d6.chunk.js.map",
-    "reactPlayerPreview.015a5609.chunk.js.map": "/RomanSkliarenko/cappybirthday/static/js/reactPlayerPreview.015a5609.chunk.js.map"
+    "main.ceafe5c8.js.map": "/RomanSkliarenko/cappybirthday/static/js/main.ceafe5c8.js.map"
   },
   "entrypoints": [
     "static/css/main.d3ae0e63.css",
-    "static/js/main.c782a733.js"
+    "static/js/main.ceafe5c8.js"
   ]
 }
