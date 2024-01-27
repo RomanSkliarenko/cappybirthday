@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/RomanSkliarenko/cappybirthday/static/css/main.d3ae0e63.css",
-    "main.js": "/RomanSkliarenko/cappybirthday/static/js/main.ceafe5c8.js",
-    "static/media/capy.png": "/RomanSkliarenko/cappybirthday/static/media/capy.c7f5950c0404cd3bc108.png",
-    "index.html": "/RomanSkliarenko/cappybirthday/index.html",
-    "main.d3ae0e63.css.map": "/RomanSkliarenko/cappybirthday/static/css/main.d3ae0e63.css.map",
-    "main.ceafe5c8.js.map": "/RomanSkliarenko/cappybirthday/static/js/main.ceafe5c8.js.map"
+    "main.css": "/cappybirthday/static/css/main.85d59bf5.css",
+    "main.js": "/cappybirthday/static/js/main.ceafe5c8.js",
+    "static/media/capy.png": "/cappybirthday/static/media/capy.c7f5950c0404cd3bc108.png",
+    "index.html": "/cappybirthday/index.html",
+    "main.85d59bf5.css.map": "/cappybirthday/static/css/main.85d59bf5.css.map",
+    "main.ceafe5c8.js.map": "/cappybirthday/static/js/main.ceafe5c8.js.map"
   },
   "entrypoints": [
-    "static/css/main.d3ae0e63.css",
+    "static/css/main.85d59bf5.css",
     "static/js/main.ceafe5c8.js"
   ]
 }
